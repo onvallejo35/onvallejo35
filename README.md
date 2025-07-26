@@ -25,7 +25,6 @@
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Cybersecurity is not a sprint, it's an endless marathon.”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
 </p>
-<br><br>
 
 <hr>
 
@@ -34,9 +33,8 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: Call me and I will gladly work and support your team. 😊 <br>
-✔ I am currently developing several projects: Apps and Artificial Intelligence Agents. **Html, CSS, & JavaScript language**<br>
+✔ I am currently developing several projects: Apps, websites, and the creation of Artificial Intelligence Agents. **Html, CSS, & JavaScript language**<br>
 ✔ I’m currently learning about **React.js**🥰<br>
-✔ An open source contributor.
 ✔ I’m looking to collaborate with any **Open - creation of custom artificial intelligence agents**<br>
 
 ## 🛠️ My Skills
