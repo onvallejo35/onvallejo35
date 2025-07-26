@@ -44,10 +44,10 @@
 <p align="left"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
    </a>
   &emsp;
-  <a href="https://www.python.org/">
+  <a href="https://www.python.org/" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
 </p>
@@ -66,10 +66,6 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank"> React
-    <img alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
-  </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
@@ -80,10 +76,6 @@
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://closte.com/" style="background-color:white"><img alt="Closte" height="25px" width="50px" src="https://closte.com/wp-content/uploads/2017/07/logo-4A5960.svg"></a>  
-  &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
  </p>
 
  ### 👉 Software & Tools
