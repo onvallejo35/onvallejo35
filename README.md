@@ -33,9 +33,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 ✔ Callme: Call me and I will gladly work and support your team. 😊 <br>
-✔ I am currently developing several projects: Apps, websites, and the creation of Artificial Intelligence Agents. **Html, CSS, & JavaScript language**<br>
+✔ I am currently developing several projects: Apps, websites, and creation of        Artificial Intelligence Agents. **Html, CSS, & JavaScript language**<br>
 ✔ I’m currently learning about **React.js**🥰<br>
-✔ I’m looking to collaborate with any **Open - creation of custom artificial intelligence agents**<br>
+✔ I’m looking to collaborate with any **Open - creation of custom artificial         intelligence agents**<br>
 
 ## 🛠️ My Skills
 
@@ -50,6 +50,7 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </p>
 
 ### 👉 Frontend Development
