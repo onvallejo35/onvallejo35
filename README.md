@@ -1,17 +1,3 @@
-<!--
-**MuhammadFaizanHaidar/MuhammadFaizanHaidar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <br>
 
@@ -19,13 +5,13 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=muhammadfaizanhaidar&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-WordPress-brightgreen" />
+<img src="https://img.shields.io/badge/Age-41-blue" />
+  <img src="https://img.shields.io/badge/Focus-cybersecurity-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Oscar Vallejo </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> everyone, I'm Oscar Vallejo </h1>
 <h3 align="center">WordPress Plugins | Themes Engineer </h3>
 <h4 align="center">4 years of experience in WP Plugins Development.</h4>
 <p align="center">
@@ -174,6 +160,6 @@ Here are some ideas to get you started:
 
 
 -----
-Credits: [Muhammad Faizan Haidar](https://github.com/muhammadfaizanhaidar)
+Credits: [Vallejo Llactahuamán, Oscar Nilton](https://github.com/onvallejo35/onvallejo35.git)
 
-Last Edited on: 05/08/2021
+Last Edited on: 26/07/2025
