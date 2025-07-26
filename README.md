@@ -12,9 +12,9 @@
   <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> everyone, I'm Oscar Vallejo </h1>
-<h3 align="center">WordPress Plugins | Themes Engineer </h3>
-<h4 align="center">4 years of experience in WP Plugins Development.</h4>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Oscar Vallejo </h1>
+<h3 align="center"> Full Stack Developer | Cybersecurity </h3>
+<h4 align="center">1 years of experience in web development.</h4>
 <p align="center">
 <a href="https://profiles.wordpress.org/muhammadfaizanhaidar/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="muhammad_faizan_haidar" height="30" width="40" /></a>
 <a href="https://www.upwork.com/freelancers/~01c9487f998e65bbee" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/upwork/upwork-icon.svg" alt="up_muhammad_faizan_haidar" height="30" width="40" /></a>
