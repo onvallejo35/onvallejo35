@@ -33,8 +33,8 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a Gutenberg Block Plugin **Html, CSS, React.js,Js & Php language**<br>
+✔ Callme: Call me and I will gladly work and support your team. 😊 <br>
+✔ I am currently developing some projects in **Html, CSS, Js & React.js language**<br>
 ✔ I’m currently learning about **React**🥰<br>
 ✔ An open source contributor. Please find my free plugin on 
   **wordpress.org <a href="https://wordpress.org/plugins/attendance-management-for-lifterlms/">Attendance Managment &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For LifterLMS</a>**<br>
