@@ -7,8 +7,8 @@
  <p align="center">
 <img src="https://img.shields.io/badge/Age-41-blue" />
   <img src="https://img.shields.io/badge/Focus-cybersecurity-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Pakistan-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Urdu-brightgreen" />
+  <img src="https://img.shields.io/badge/Nationality-Peruvian-success" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> everyone, I'm Oscar Vallejo </h1>
