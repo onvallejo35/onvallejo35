@@ -133,7 +133,7 @@
 <br><br><br><br><br>
 
 <hr>
-
+<br>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;
 <br>
 Git profile Trophies</p>
