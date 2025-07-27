@@ -136,9 +136,12 @@
 <br>
 <p align="center">
 <br>
-<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;
+<img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />
 <br>
-Git profile Trophies</p>
+&nbsp;
+<br>
+Git profile Trophies
+</p>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=onvallejo35&theme=juicyfresh&no-bg=true" />
 
