@@ -134,8 +134,9 @@
 
 <hr>
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p>
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;
 <br>
+Git profile Trophies</p>
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=onvallejo35&theme=juicyfresh&no-bg=true" />
 
