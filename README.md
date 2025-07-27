@@ -121,8 +121,8 @@
 
 ### 🔥 Streak Stats
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Onvallejo35&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
- alt="OscarVallejo"/></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Onvallejo35&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/></a>/>
+</p>
 
 <hr>
 <p align="center">
