@@ -2,14 +2,15 @@
 <br>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=muhammadfaizanhaidar&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=onvallejo35&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
-<img src="https://img.shields.io/badge/Age-41-brightgreen" />
   <img src="https://img.shields.io/badge/Full Stack Developer-Cybersecurity-brightgreen" />
   <img src="https://img.shields.io/badge/Nationality-Peruvian-success" />
   <img src="https://img.shields.io/badge/Residence-Buenos Aires Argentina-success" />
   <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
+<img src="https://img.shields.io/badge/Email-onvallejo35@gmail.com-brightgreen" />
+
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Oscar Vallejo </h1>
