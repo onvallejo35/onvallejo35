@@ -19,7 +19,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Vallejo Llactahuamán Oscar Nilton. <br>
+    Hello, I am Vallejo Llactahuamán Oscar Nilton. <br> student of Software Development Technician y React.js
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>computer security researcher</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br><b>obsessed</b>
     with <b>development</b> and always looking to find new solutions for <b> plugins/themes </b> to learn and develop. 
   </em> 
