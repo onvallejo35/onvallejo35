@@ -31,14 +31,16 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+
+***About me ....***
 
 ✔ I participate in a developer club where we form teams to develop various projects: apps and websites. 😊 <br>
-✔ con mi equipo estamos en la contruccion de una App para vuelos privados<br>
+✔ I have a project in the initial development phase on a private flight app.<br>
 ✔ I am currently developing several projects: Apps, websites, and creation of        Artificial Intelligence Agents. **Html, CSS, & JavaScript language**<br>
 ✔ I’m currently learning about **React.js**🥰<br>
+✔ I am looking to collaborate on other projects and **keep my passion alive**.<br>
 ✔ Callme: will gladly work and support your team. 😊<br>
-✔ I’m looking to collaborate with any **Open - creation of custom artificial         intelligence agents**<br>
 
 ## 🛠️ My Skills
 
