@@ -37,7 +37,7 @@
 
 ✔ I participate in a developer club where we form teams to develop various projects: apps and websites. 😊 <br>
 ✔ I have a project in the initial development phase on a private flight app.<br>
-✔ I am currently developing several projects: Apps, websites, and creation of        Artificial Intelligence Agents. **Html, CSS, & JavaScript language**<br>
+✔ I am currently developing several projects personal: **Apps, websites**<br>
 ✔ I’m currently learning about **React.js**🥰<br>
 ✔ I am looking to collaborate on other projects and **keep my passion alive**.<br>
 ✔ Callme: will gladly work and support your team. 😊<br>
