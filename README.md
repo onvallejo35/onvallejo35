@@ -33,9 +33,11 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: will gladly work and support your team. 😊 <br>
+✔ I participate in a developer club where we form teams to develop various projects: apps and websites. 😊 <br>
+✔ con mi equipo estamos en la contruccion de una App para vuelos privados<br>
 ✔ I am currently developing several projects: Apps, websites, and creation of        Artificial Intelligence Agents. **Html, CSS, & JavaScript language**<br>
 ✔ I’m currently learning about **React.js**🥰<br>
+✔ Callme: will gladly work and support your team. 😊<br>
 ✔ I’m looking to collaborate with any **Open - creation of custom artificial         intelligence agents**<br>
 
 ## 🛠️ My Skills
