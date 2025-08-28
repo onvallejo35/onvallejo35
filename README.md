@@ -15,7 +15,7 @@
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Oscar Vallejo </h1>
 <h3 align="center"> Full Stack Developer | Cybersecurity </h3>
-<h4 align="center">1 year of experience in web development.</h4>
+<h4 align="center">Experience in web development on personal projects.</h4>
 
 <p align="center">
   <em>
