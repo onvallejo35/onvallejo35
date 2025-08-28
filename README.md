@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Full Stack Developer-Cybersecurity-brightgreen" />
   <img src="https://img.shields.io/badge/Nationality-Peruvian-success" />
   <img src="https://img.shields.io/badge/Residence-Buenos Aires Argentina-success" />
-  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Spanish native%20%26%20English basic-brightgreen" />
 <img src="https://img.shields.io/badge/Email-onvallejo35@gmail.com-brightgreen" />
 
 </p>
